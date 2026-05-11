@@ -1,0 +1,10 @@
+streamlit
+pandas
+numpy
+yfinance
+scipy
+plotly
+openpyxl
+requests
+lxml
+ib_insync
